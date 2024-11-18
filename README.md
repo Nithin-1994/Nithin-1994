@@ -1,9 +1,5 @@
 # 💫 About Me: 
-<div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-
 I am a Full Stack Developer specializing in scalable, high-performance web applications. Proficient in React, Node.js, and Docker, I create seamless solutions across front-end and back-end. With expertise in cloud integration and API development, I deliver adaptable, efficient, and user-friendly applications. Certified in Python (HackerRank) and AWS Machine Learning (Coursera), I am committed to innovation, problem-solving, and optimizing user experiences.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-hewavitharana-niki-488678275) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCs9Rq3mIvMLw8X4pPtX4yBw) 
