@@ -1,4 +1,7 @@
 # 💫 About Me:
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 I am a Full Stack Developer specializing in scalable, high-performance web applications. Proficient in React, Node.js, and Docker, I create seamless solutions across front-end and back-end. With expertise in cloud integration and API development, I deliver adaptable, efficient, and user-friendly applications. Certified in Python (HackerRank) and AWS Machine Learning (Coursera), I am committed to innovation, problem-solving, and optimizing user experiences.
 
 
